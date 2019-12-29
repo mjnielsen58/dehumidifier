@@ -6,8 +6,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/mjnielsen/PlatformIO/Projects/dehumidifyer/include",
-                "/home/mjnielsen/PlatformIO/Projects/dehumidifyer/src",
+                "/home/mjnielsen/PlatformIO/Projects/dehumidifier/include",
+                "/home/mjnielsen/PlatformIO/Projects/dehumidifier/src",
                 "/home/mjnielsen/.platformio/lib/Arduino-Temperature-Control-Library-master",
                 "/home/mjnielsen/.platformio/lib/OneWire_ID1",
                 "/home/mjnielsen/.platformio/lib/DHT sensor library_ID19",
@@ -25,8 +25,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/mjnielsen/PlatformIO/Projects/dehumidifyer/include",
-                    "/home/mjnielsen/PlatformIO/Projects/dehumidifyer/src",
+                    "/home/mjnielsen/PlatformIO/Projects/dehumidifier/include",
+                    "/home/mjnielsen/PlatformIO/Projects/dehumidifier/src",
                     "/home/mjnielsen/.platformio/lib/Arduino-Temperature-Control-Library-master",
                     "/home/mjnielsen/.platformio/lib/OneWire_ID1",
                     "/home/mjnielsen/.platformio/lib/DHT sensor library_ID19",
